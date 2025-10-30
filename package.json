@@ -1,1 +1,7 @@
+{
+  "dependencies": {
+    "imap-simple": "^5.0.0",
+    "mailparser": "^3.6.5"
+  }
+}
 
